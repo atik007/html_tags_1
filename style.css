@@ -1,0 +1,33 @@
+body{
+    background: white;
+}
+h2{
+    
+    background: white;
+    color: black;
+    text-align: center;
+    border: 1px white;
+}
+div{
+        width: 100%;
+        background: seagreen;
+}
+  
+tr,th,td{
+    width:25%;
+    color: white;
+    border: 1px white;
+    text-align: center;
+}
+table{
+    border: 2px white;
+    border-collapse: collapse;
+}
+p{
+	backgroung:seagreen
+	color:white
+	text-align:center	
+}
+
+
+
